@@ -18,4 +18,4 @@ The projects include:
 Credits:
 Charles A. Bouman for [project questions](https://engineering.purdue.edu/~bouman/grad-labs/)  
 Usman Sadiq for project questions  
-Vincent Spruyt for great [PCA tutorials and pca.m](https://visiondummy.com/2014/05/feature-extraction-using-pca/)  
+Vincent Spruyt for great [PCA tutorials and pca.m](http://visiondummy.com/2014/05/feature-extraction-using-pca/)  
