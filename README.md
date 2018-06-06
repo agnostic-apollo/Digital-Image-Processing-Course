@@ -1,4 +1,4 @@
-#Matlab and c++ code for projects done in a Digital Image Processing Course.  
+# Matlab and c++ code for projects done in a Digital Image Processing Course.  
 The projects include:      
 1) Image grayscale and Histogram display. (Project 1 Part 2)  
 2) Custom code for Contrast Stretching with saturation cut offs. (Project 1 Part 2)  
