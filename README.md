@@ -12,7 +12,7 @@ The projects include:
 10) Finding Connected Neighbours, Connected Sets and Image Segmentations. (Project 2 Part 1)  
 11) Estimating a Screen's Gamma Value by use of alternating checkerboard and constant grayscale pattern. (Project 2 Part 2)  
 12) Gamma Correction of Images.  (Project 2 Part 2)  
-13) Principal Component Analysis (PCA), finding Eigenvectors, Projecting sample data onto nth Largest Eigenvectors, Reconstructing original data from Projected data. (Project 2 Part 3)  
+13) Principal Component Analysis (PCA), finding Eigenvectors, Projecting sample data onto nth Largest Eigenvectors, Reconstructing original data from Projected data. (Project 2 Part 3)    
 
   
 Credits:
